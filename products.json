@@ -1,0 +1,37 @@
+[
+  {
+    "id": "P001",
+    "name": "Smartphone X",
+    "price": 599.99,
+    "category": "Electronics",
+    "stock": 50
+  },
+  {
+    "id": "P002",
+    "name": "ComfortPlus Pillow",
+    "price": 29.99,
+    "category": "Home & Living",
+    "stock": 100
+  },
+  {
+    "id": "P003",
+    "name": "Gourmet Coffee Blend",
+    "price": 12.49,
+    "category": "Food & Beverage",
+    "stock": 75
+  },
+  {
+    "id": "P004",
+    "name": "Wireless Bluetooth Earbuds",
+    "price": 39.99,
+    "category": "Electronics",
+    "stock": 30
+  },
+  {
+    "id": "P005",
+    "name": "Fitness Tracker Watch",
+    "price": 79.95,
+    "category": "Sports & Outdoors",
+    "stock": 40
+  }
+]
