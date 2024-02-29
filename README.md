@@ -17,7 +17,7 @@ Description: Retrieve details of a specific product. v
 Parameters: productId - The unique identifier of the product.
 Response: Detailed information about the specified product.
 
-## To-do
+
 Add a New Product:
 
 Endpoint: /api/products
@@ -36,6 +36,9 @@ Parameters: productId - The unique identifier of the product.
 Request Body: JSON object containing updated product details.
 Authentication: Admin privilege required.
 Response: Details of the updated product.
+
+## To-do
+
 Delete a Product:
 
 Endpoint: /api/products/:productId
